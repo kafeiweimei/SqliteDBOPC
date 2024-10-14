@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SqliteDLL\**" />
+    <EmbeddedResource Remove="SqliteDLL\**" />
+    <None Remove="SqliteDLL\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="3.1.24" />
+    <PackageReference Include="SQLitePCLRaw.bundle_e_sqlcipher" Version="2.0.7" />
+    <PackageReference Include="System.IO.FileSystem.AccessControl" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <HarpyFiles Remove="SqliteDBSqlHelper.cs" />
+  </ItemGroup>
+
+</Project>
