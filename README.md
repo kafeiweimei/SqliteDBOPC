@@ -17,9 +17,9 @@
 
 ### 2.1、项目示例截图
 
-![Sqlite数据库操作使用示例](.\Sqlite数据库操作使用示例.png)
+![Sqlite数据库操作使用示例](https://github.com/kafeiweimei/SqliteDBOPC/blob/main/Sqlite%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B.png)
 
-![Sqlite数据库操作使用示例2](.\Sqlite数据库操作使用示例2.png)
+![Sqlite数据库操作使用示例2](https://github.com/kafeiweimei/SqliteDBOPC/blob/main/Sqlite%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B2.png)
 
 ### 2.2、项目运行演示视频
 
